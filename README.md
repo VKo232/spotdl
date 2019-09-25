@@ -1,2 +1,2 @@
 # spotdl
-Requires youtubedl
+Webscraping program, that finds youtube equivalents for downloads
